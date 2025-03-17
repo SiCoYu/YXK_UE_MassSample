@@ -1,4 +1,4 @@
-# Community Mass Sample
+# Community Mass Sample UE的类ECS框架
 ### **Note:** This project requires `Git LFS` for it to work properly, `zip` downloads **won't work**.
 
 #### **Authors:**
